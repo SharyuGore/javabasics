@@ -1,0 +1,5 @@
+Q - What operations do you perform on streams
+A - Filter is very common.i used it for sum, average of double values
+
+Q - What is parallel stream
+A - parallelstream are used when you want the list to be processesd quick. but we dont use parallelstream as much.
